@@ -1,5 +1,5 @@
 # UBER DATA ANALYSIS by TeamOverFlow
-![](Intro_gif.gif)
+![alt text](Intro_gif.gif)
 
 This project aims to:
 
