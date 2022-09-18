@@ -1,5 +1,5 @@
 # UBER DATA ANALYSIS by TeamOverFlow
-![](https://github.com/lachenlama/TeamOverFlow/Intro_gif.gif)
+![](Intro_gif.gif)
 
 This project aims to:
 
@@ -26,7 +26,7 @@ The code is written in a Jupyter Notebook with a Python 3.9  kernel and in addit
  PICKUP LOCATIONS</b> of UBER CUSTOMERS
 </p>
 
-![alt text](F:\UberDataAnalysis\heatmap.png)
+![alt text](heatmap.png)
 <p align="center"><b>
  Heat Map</b> of UBER RIDES 
 </p>
