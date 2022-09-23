@@ -1,7 +1,7 @@
 # UBER DATA ANALYSIS by TeamOverFlow
 ![alt text](Intro_gif.gif)
 
-This project aims to:
+### This project aims to:
 
 - Visualize **Uber's ridership growth** in NYC in 2014 and 2018.
 - Visualize **pickup coordinates** in a real-time map.
